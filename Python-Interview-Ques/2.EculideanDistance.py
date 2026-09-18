@@ -5,4 +5,4 @@ y1=float(input())
 y2=float(input())
 
 diatance=round(math.sqrt((x2-x1)**2+(y2-y1)**2,2))
-print(diatance)
+print("Distance of eculadian distance",diatance)
